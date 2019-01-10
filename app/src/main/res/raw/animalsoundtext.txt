@@ -1,0 +1,15 @@
+Lion->Roar
+Pig->Oink
+Cow->Moo
+Antelope->Snort
+Badger->Growl
+Bat->Screech
+Bee->Buzz
+Tiger->Roar
+Bittern->Boom
+Cat->Meow
+Chicken->Cluck
+Chimpanzee->Scream
+Chinchilla->Squeak
+Cicada->Chirp
+Crow->Caw

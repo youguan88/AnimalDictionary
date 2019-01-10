@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimalSoundsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Click on the name of the animal to see what sound it makes</string>
+    <string name="menu1">Open</string>
+    <string name="menu2">Save</string>
+    <string name="menu3">Exit</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
